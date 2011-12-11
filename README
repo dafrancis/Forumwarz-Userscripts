@@ -1,0 +1,42 @@
+    ______                                                 
+   / ____/___  _______  ______ ___ _      ______ __________
+  / /_  / __ \/ ___/ / / / __ `__ \ | /| / / __ `/ ___/_  /
+ / __/ / /_/ / /  / /_/ / / / / / / |/ |/ / /_/ / /    / /_
+/_/    \____/_/   \__,_/_/ /_/ /_/|__/|__/\__,_/_/    /___/
+                                                           
+   _____           _       __      
+  / ___/__________(_)___  / /______
+  \__ \/ ___/ ___/ / __ \/ __/ ___/
+ ___/ / /__/ /  / / /_/ / /_(__  ) 
+/____/\___/_/  /_/ .___/\__/____/  
+                /_/                
+
+-= What is this? =-
+
+A collection of greasemonkey/userscripts I made for the Browser RPG
+forumwarz. Some of them are improvements on scripts made by other
+people and some are original scripts that I've made.
+
+-= What's in this? =-
+
+* "Hellban Script": Adds an "Ignore user" function for the main forums.
+* BBCode Buttons: Adds BBCode buttons for the forums.
+* "Domfag Script": A tool for the "Domination" minigame. You select a
+                   list of forums to fight and then the script helps
+                   you battle them one after the other easily.
+
+-= Why put them on github? =-
+
+For historical reasons. Plus as things are I'm tempted to host any
+userscript I make on github rather than userscripts.org as the latter
+tends to be slow and broken most of the time. At least here I can
+track and modify things easily and when I want to.
+
+I also put it here so people can fork the scripts and modify changes,
+fixes etc although since I'm one of the few in the community that can
+write JavaScript I doubt that anyone will put in some fixes.
+
+-= Who are you again? =-
+
+I'm known as "SanDyk" or "Johnald The Robot" which was the alt character
+I used when announce any new script I made.
